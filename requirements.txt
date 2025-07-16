@@ -1,0 +1,9 @@
+torch
+realesrgan
+opencv-python
+numpy
+scikit-image
+lpips
+streamlit
+Pillow
+matplotlib
